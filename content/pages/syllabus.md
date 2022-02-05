@@ -22,16 +22,117 @@ Grading will be based half on class participation including student reports and 
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Organizational Theory / Research |
-| 2 | Recruitment, Socialization and Hierarchy |
-| 3 | Men Against Fire / Cohesion + Disintegration |
-| 4 | Friendly Fire / Organizational Failure |
-| 5 | Information Processing / Organization Learning |
-| 6 | Organizational Evolution / Adjusting to the Environment |
-| 7 | Military Innovation / Alternative Theories |
-| 8 | Influencing Organizations / The Limits of Outside Advice |
-| 9 | Organizational Rigidity / Organizational Change |
-| 10 | Organizational Design |
-| 11-12 | Student Papers
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational Theory / Research
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Recruitment, Socialization and Hierarchy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Men Against Fire / Cohesion + Disintegration
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Friendly Fire / Organizational Failure
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Information Processing / Organization Learning
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational Evolution / Adjusting to the Environment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Military Innovation / Alternative Theories
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Influencing Organizations / The Limits of Outside Advice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational Rigidity / Organizational Change
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Student Papers
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
